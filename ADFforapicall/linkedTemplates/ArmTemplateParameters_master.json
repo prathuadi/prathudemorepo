@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFforapicall"
 		},
+		"AzureBlobStorage1forgithub_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
