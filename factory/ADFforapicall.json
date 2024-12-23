@@ -1,0 +1,9 @@
+{
+	"name": "ADFforapicall",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "130dcedd-c888-4a59-86fd-899d395d29cf",
+		"tenantId": "64e7f978-d1a0-466a-b3bc-39d3798da0c7"
+	}
+}
